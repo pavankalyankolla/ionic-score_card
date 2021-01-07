@@ -1,5 +1,7 @@
 {
   "name": "Expand_ScoreCard",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
